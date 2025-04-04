@@ -1,0 +1,9 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore any build artifacts or logs
+/dist
+/build
+/.env
+*.log
+.DS_Store  # For macOS users
